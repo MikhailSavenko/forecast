@@ -1,1 +1,5 @@
 a.txt
+forecast/db.sqlite3
+.env
+.venv/
+.venv
